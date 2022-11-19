@@ -8,7 +8,7 @@ public class HelloController {
 
 	@GetMapping("/")
 	public String index() {
-		return "If are reading this, I trust you and you trust me.";
+		return "If are reading this, I trust you and you trust me.\n";
 	}
 
 }
