@@ -29,3 +29,7 @@ Now tell cURL to identify itself with a cert from a CA the server trusts:
 ```bash
 curl -k --cert-type P12 --cert src/main/resources/client.p12:changeit https://localhost:8443 
 ```
+
+-------------------------------------------
+
+Excellent Tutorial that I followed is [here](https://medium.com/ing-tech-romania/a-simple-mtls-guide-for-spring-boot-microservices-c6bfc9878369) - my thanks to the author Mihaita Tinta.
