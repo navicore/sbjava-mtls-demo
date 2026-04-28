@@ -1,3 +1,8 @@
+<!-- ghmig:moved -->
+> **This repository has moved to [https://git.navicore.tech/navicore/sbjava-mtls-demo](https://git.navicore.tech/navicore/sbjava-mtls-demo).**
+>
+> The GitHub copy is archived and no longer maintained.
+
 mTLS Spring Boot Demo Server
 ====================
 
